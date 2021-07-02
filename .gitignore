@@ -1,0 +1,8 @@
+# Visual Studio
+.vs
+Yoo-Math.net.csproj
+Yoo-Math.net.sln
+
+# Outputs
+obj
+bin
